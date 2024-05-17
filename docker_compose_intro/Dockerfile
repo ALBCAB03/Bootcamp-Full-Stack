@@ -1,7 +1,7 @@
 FROM node:alpine
 
 # Create app directory
-WORKDIR /usr/src/app
+WORKDIR D:\Alberto\Estudio\Inesdi-Full Stack Developer\2. Curso Nivelador\2. Actividad\Actividad
 
 # Install app dependencies
 # A wildcard is used to ensure both package.json AND package-lock.json are copied
